@@ -1,0 +1,14 @@
+C:\Users\joao.vcarvalho7\source\repos\logica_programaçao_tarde_quinta\ex03\bin\Debug\net8.0\ex02.exe
+C:\Users\joao.vcarvalho7\source\repos\logica_programaçao_tarde_quinta\ex03\bin\Debug\net8.0\ex02.deps.json
+C:\Users\joao.vcarvalho7\source\repos\logica_programaçao_tarde_quinta\ex03\bin\Debug\net8.0\ex02.runtimeconfig.json
+C:\Users\joao.vcarvalho7\source\repos\logica_programaçao_tarde_quinta\ex03\bin\Debug\net8.0\ex02.dll
+C:\Users\joao.vcarvalho7\source\repos\logica_programaçao_tarde_quinta\ex03\bin\Debug\net8.0\ex02.pdb
+C:\Users\joao.vcarvalho7\source\repos\logica_programaçao_tarde_quinta\ex03\obj\Debug\net8.0\ex02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joao.vcarvalho7\source\repos\logica_programaçao_tarde_quinta\ex03\obj\Debug\net8.0\ex02.AssemblyInfoInputs.cache
+C:\Users\joao.vcarvalho7\source\repos\logica_programaçao_tarde_quinta\ex03\obj\Debug\net8.0\ex02.AssemblyInfo.cs
+C:\Users\joao.vcarvalho7\source\repos\logica_programaçao_tarde_quinta\ex03\obj\Debug\net8.0\ex02.csproj.CoreCompileInputs.cache
+C:\Users\joao.vcarvalho7\source\repos\logica_programaçao_tarde_quinta\ex03\obj\Debug\net8.0\ex02.dll
+C:\Users\joao.vcarvalho7\source\repos\logica_programaçao_tarde_quinta\ex03\obj\Debug\net8.0\refint\ex02.dll
+C:\Users\joao.vcarvalho7\source\repos\logica_programaçao_tarde_quinta\ex03\obj\Debug\net8.0\ex02.pdb
+C:\Users\joao.vcarvalho7\source\repos\logica_programaçao_tarde_quinta\ex03\obj\Debug\net8.0\ex02.genruntimeconfig.cache
+C:\Users\joao.vcarvalho7\source\repos\logica_programaçao_tarde_quinta\ex03\obj\Debug\net8.0\ref\ex02.dll

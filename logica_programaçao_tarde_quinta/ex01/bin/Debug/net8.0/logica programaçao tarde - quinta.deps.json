@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "logica programaçao tarde - quinta/1.0.0": {
+        "runtime": {
+          "logica programaçao tarde - quinta.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "logica programaçao tarde - quinta/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

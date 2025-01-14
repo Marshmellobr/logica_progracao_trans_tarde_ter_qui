@@ -1,0 +1,14 @@
+C:\Users\joao.vcarvalho7\source\repos\logica_programaçao_tarde_quinta\logica programaçao tarde - quinta\obj\Debug\net8.0\logica programaçao tarde - quinta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joao.vcarvalho7\source\repos\logica_programaçao_tarde_quinta\logica programaçao tarde - quinta\obj\Debug\net8.0\logica programaçao tarde - quinta.AssemblyInfoInputs.cache
+C:\Users\joao.vcarvalho7\source\repos\logica_programaçao_tarde_quinta\logica programaçao tarde - quinta\obj\Debug\net8.0\logica programaçao tarde - quinta.AssemblyInfo.cs
+C:\Users\joao.vcarvalho7\source\repos\logica_programaçao_tarde_quinta\logica programaçao tarde - quinta\obj\Debug\net8.0\logica programaçao tarde - quinta.csproj.CoreCompileInputs.cache
+C:\Users\joao.vcarvalho7\source\repos\logica_programaçao_tarde_quinta\logica programaçao tarde - quinta\bin\Debug\net8.0\logica programaçao tarde - quinta.exe
+C:\Users\joao.vcarvalho7\source\repos\logica_programaçao_tarde_quinta\logica programaçao tarde - quinta\bin\Debug\net8.0\logica programaçao tarde - quinta.deps.json
+C:\Users\joao.vcarvalho7\source\repos\logica_programaçao_tarde_quinta\logica programaçao tarde - quinta\bin\Debug\net8.0\logica programaçao tarde - quinta.runtimeconfig.json
+C:\Users\joao.vcarvalho7\source\repos\logica_programaçao_tarde_quinta\logica programaçao tarde - quinta\bin\Debug\net8.0\logica programaçao tarde - quinta.dll
+C:\Users\joao.vcarvalho7\source\repos\logica_programaçao_tarde_quinta\logica programaçao tarde - quinta\bin\Debug\net8.0\logica programaçao tarde - quinta.pdb
+C:\Users\joao.vcarvalho7\source\repos\logica_programaçao_tarde_quinta\logica programaçao tarde - quinta\obj\Debug\net8.0\logica programaçao tarde - quinta.dll
+C:\Users\joao.vcarvalho7\source\repos\logica_programaçao_tarde_quinta\logica programaçao tarde - quinta\obj\Debug\net8.0\refint\logica programaçao tarde - quinta.dll
+C:\Users\joao.vcarvalho7\source\repos\logica_programaçao_tarde_quinta\logica programaçao tarde - quinta\obj\Debug\net8.0\logica programaçao tarde - quinta.pdb
+C:\Users\joao.vcarvalho7\source\repos\logica_programaçao_tarde_quinta\logica programaçao tarde - quinta\obj\Debug\net8.0\logica programaçao tarde - quinta.genruntimeconfig.cache
+C:\Users\joao.vcarvalho7\source\repos\logica_programaçao_tarde_quinta\logica programaçao tarde - quinta\obj\Debug\net8.0\ref\logica programaçao tarde - quinta.dll
