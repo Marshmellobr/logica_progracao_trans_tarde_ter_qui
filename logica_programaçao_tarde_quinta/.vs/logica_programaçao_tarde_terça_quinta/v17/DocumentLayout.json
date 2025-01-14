@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\joao.vcarvalho7\\source\\repos\\logica_programa\u00E7ao_tarde_quinta\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{13A0DC98-5663-4414-A7CC-B8F65F026F66}|ex05\\ex05.csproj|c:\\users\\joao.vcarvalho7\\source\\repos\\logica_programa\u00E7ao_tarde_quinta\\ex05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13A0DC98-5663-4414-A7CC-B8F65F026F66}|ex05\\ex05.csproj|solutionrelative:ex05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C992AF2C-B218-440D-B227-44D74384D255}|ex04\\ex04.csproj|c:\\users\\joao.vcarvalho7\\source\\repos\\logica_programa\u00E7ao_tarde_quinta\\ex04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C992AF2C-B218-440D-B227-44D74384D255}|ex04\\ex04.csproj|solutionrelative:ex04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,11 +18,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\joao.vcarvalho7\\source\\repos\\logica_programa\u00E7ao_tarde_quinta\\ex04\\Program.cs",
               "RelativeDocumentMoniker": "ex04\\Program.cs",
@@ -28,6 +32,19 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-14T18:00:10.802Z",
               "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\joao.vcarvalho7\\source\\repos\\logica_programa\u00E7ao_tarde_quinta\\ex05\\Program.cs",
+              "RelativeDocumentMoniker": "ex05\\Program.cs",
+              "ToolTip": "C:\\Users\\joao.vcarvalho7\\source\\repos\\logica_programa\u00E7ao_tarde_quinta\\ex05\\Program.cs",
+              "RelativeToolTip": "ex05\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T19:15:09.206Z",
               "EditorCaption": ""
             }
           ]
