@@ -9,4 +9,3 @@ string ultimosobrenome = Console.ReadLine();
 
 Console.WriteLine($"seja bem vindo {nome} {sobrenome} {ultimosobrenome}");
 
-Console.WriteLine(""
